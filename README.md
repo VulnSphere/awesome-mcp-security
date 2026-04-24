@@ -23,6 +23,7 @@ An opinionated list of awesome MCP(Model Context Protocol) security
 [mcp_sec_scanner](https://github.com/VulnSphere/mcp_sec_scanner)
 
 [MCP-Shield](https://github.com/riseandignite/mcp-shield)
+[EnigmAgent](https://github.com/Agnuxo1/EnigmAgent) — AES-256-GCM + Argon2id encrypted local vault for AI agent credentials. Resolves `{{PLACEHOLDER}}` secrets at runtime so API keys never appear in prompts or LLM context.
 
 [damn-vulnerable-MCP-server](https://github.com/harishsg993010/damn-vulnerable-MCP-server)
 
