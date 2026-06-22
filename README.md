@@ -20,6 +20,8 @@ An opinionated list of awesome MCP(Model Context Protocol) security
 
 ## Tool
 
+[Armorer Guard](https://github.com/ArmorerLabs/Armorer-Guard)
+
 [mcp_sec_scanner](https://github.com/VulnSphere/mcp_sec_scanner)
 
 [MCP-Shield](https://github.com/riseandignite/mcp-shield)
@@ -33,6 +35,5 @@ An opinionated list of awesome MCP(Model Context Protocol) security
 [MCP Safety Audit: LLMs with the Model Context Protocol Allow Major Security Exploits](https://www.arxiv.org/pdf/2504.03767)
 
 [Enterprise-Grade Security for the Model Context Protocol (MCP): Frameworks and Mitigation Strategies](https://arxiv.org/html/2504.08623v1)
-
 
 
