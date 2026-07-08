@@ -20,6 +20,7 @@ An opinionated list of awesome MCP(Model Context Protocol) security
 
 ## Tool
 
+[Darkmoon Privacy Gateway](https://github.com/ASCIT31/Dark-Moon)
 [mcp_sec_scanner](https://github.com/VulnSphere/mcp_sec_scanner)
 
 [MCP-Shield](https://github.com/riseandignite/mcp-shield)
