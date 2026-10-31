@@ -20,6 +20,10 @@ An opinionated list of awesome MCP(Model Context Protocol) security
 
 ## Tool
 
+[Harnis](https://github.com/L00PLeGeNd/Harnis)
+
+Stdio proxy that scans mcp.json and blocks credential reads, destructive shell, GitHub/Postgres/Slack mutations and secret exfil before the tool runs.
+
 [mcp_sec_scanner](https://github.com/VulnSphere/mcp_sec_scanner)
 
 [MCP-Shield](https://github.com/riseandignite/mcp-shield)
